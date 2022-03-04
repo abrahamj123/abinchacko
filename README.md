@@ -10,3 +10,7 @@ What is the number of death due to tsunami in Alaska ?
 3)What is the largest tsunami (by maximum wave height) in each country's history?
 
 <img width="334" alt="image" src="https://user-images.githubusercontent.com/100929072/156753517-6a339604-7e0f-4904-b7ef-e7bb577e87aa.png">
+
+4)
+
+<img width="142" alt="image" src="https://user-images.githubusercontent.com/100929072/156762572-b5b22dee-c482-429b-b789-a81078701986.png">
