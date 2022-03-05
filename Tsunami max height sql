@@ -1,0 +1,11 @@
+3)What is the largest tsunami (by maximum wave height) in each country's history?
+SELECT  
+  r.country as country
+  ,MAX(se.maximum_water_height) as max_height
+FROM 
+  `bigquery-public-data.noaa_tsunami.historical_runups` r
+INNER JOIN `bigquery-public-data.noaa_tsunami.historical_source_event` se
+  ON r.tsevent_id=se.id
+GROUP BY 1
+ORDER BY 2 desc
+
