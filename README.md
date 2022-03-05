@@ -25,3 +25,11 @@ What is the number of death due to tsunami in Alaska ?
 7)which station recorded temprature more than 86  fahrenheit?
 
 <img width="145" alt="image" src="https://user-images.githubusercontent.com/100929072/156870927-a35640ac-e504-4423-94de-94ba325993a8.png">
+
+8)What is number of Temperature recorded  more than 30 degree celsuis in a specfic  station ?
+
+<img width="142" alt="image" src="https://user-images.githubusercontent.com/100929072/156872629-f9d2a827-fca9-4724-ad8f-a7a32fdb0720.png">
+
+9)WHAT IS THE NUMBER OF LIGHTING less than 100 recored during march 2018 ?
+
+<img width="136" alt="image" src="https://user-images.githubusercontent.com/100929072/156872780-b061351d-71b1-4e1f-93c0-f01a537a885c.png">
