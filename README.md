@@ -33,3 +33,8 @@ What is the number of death due to tsunami in Alaska ?
 9)WHAT IS THE NUMBER OF LIGHTING less than 100 recored during march 2018 ?
 
 <img width="136" alt="image" src="https://user-images.githubusercontent.com/100929072/156872780-b061351d-71b1-4e1f-93c0-f01a537a885c.png">
+
+10)WHat is average sunlight kw threshod  recieved in Florida  ?
+
+<img width="258" alt="image" src="https://user-images.githubusercontent.com/100929072/156873986-c603c22f-9dbc-493a-9d2c-d0a6455156ae.png">
+
