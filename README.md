@@ -17,3 +17,8 @@ What is the number of death due to tsunami in Alaska ?
 
 5) Tsumani which took place with know causes ?
 <img width="186" alt="image" src="https://user-images.githubusercontent.com/100929072/156763274-4367364b-54a0-4b47-8cd5-0edc984d0dcf.png">
+
+6) What is the total death till now due to tsunami?
+
+<img width="140" alt="image" src="https://user-images.githubusercontent.com/100929072/156867524-61711dea-14de-48df-b28b-d3788436e6d0.png">
+
