@@ -22,3 +22,6 @@ What is the number of death due to tsunami in Alaska ?
 
 <img width="140" alt="image" src="https://user-images.githubusercontent.com/100929072/156867524-61711dea-14de-48df-b28b-d3788436e6d0.png">
 
+7)which station recorded temprature more than 86  fahrenheit?
+
+<img width="145" alt="image" src="https://user-images.githubusercontent.com/100929072/156870927-a35640ac-e504-4423-94de-94ba325993a8.png">
